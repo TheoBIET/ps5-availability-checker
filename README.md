@@ -1,5 +1,5 @@
 <img src="./ressources/playstation.png" align="right"
-     alt="Lumberjack" width="120" height="120">
+     alt="Playstation Logo" width="120" height="120">
 
 # playstationFindr 🎮 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
