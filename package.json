@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.1",
+    "clui": "^0.3.6",
     "puppeteer": "^10.1.0"
   }
 }
